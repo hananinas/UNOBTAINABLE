@@ -20,7 +20,7 @@
     .Unobtainable {
         position: relative;
         overflow: visible;
-        font-family: Helvetica Neue;
+        font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
         font-style: bold;
         font-weight: bold;
         font-size: 35px;
@@ -52,7 +52,7 @@
         overflow: visible;
         white-space: nowrap;
         text-align: center;
-        font-family: Helvetica Neue;
+        font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 75px;
@@ -170,7 +170,7 @@
     overflow: visible;
     white-space: nowrap;
     text-align: center;
-    font-family: Helvetica Neue;
+    font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
     font-style: normal;
     left: 1%;
     font-weight: bold;
@@ -184,7 +184,7 @@
     overflow: visible;
     white-space: nowrap;
     text-align: center;
-    font-family: Helvetica Neue;
+    font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 76px;
@@ -198,7 +198,7 @@
     overflow: visible;
     white-space: nowrap;
     text-align: center;
-    font-family: Helvetica Neue;
+    font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 75px;
